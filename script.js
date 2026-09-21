@@ -18,153 +18,519 @@ const DE_PARTE_DE = "De alguien que quiso alegrar tu día 💛";
    DEDICATORIA
 ========================================================= */
 
-const MENSAJE = `Hoy no es un día cualquiera.
+const MENSAJE = `Hoy quise regalarte algo diferente. 💛
 
-Hoy alguien quiso detenerse por un momento y preparar algo diferente para ti. 💛
+No porque tenga que existir una fecha especial para hacerlo, ni porque necesitemos una excusa para recordarles a las personas lo importantes que son.
 
-Tal vez no sea un ramo que puedas sostener entre tus manos, pero este pequeño jardín fue creado con la intención de regalarte un momento bonito y recordarte algo que muchas veces olvidamos:
+Simplemente porque sí.
 
-Hay personas que hacen nuestros días un poquito mejores simplemente por estar presentes.
+Porque a veces, entre tantas cosas que pasan todos los días, olvidamos decirles a las personas que apreciamos lo mucho que valoramos tenerlas en nuestra vida.
 
-Y quizá tú seas una de ellas. 🌻
+Y hoy quería recordártelo a ti. 🌻
 
-Las flores amarillas suelen representar alegría, energía, cariño y buenos deseos. Por eso, cada una de las flores que aparecen en este jardín tiene un pequeño significado.
+Eres una mujer increíble.
 
-Una representa todos esos momentos que todavía te quedan por disfrutar.
+Y no te lo digo solamente por las cosas que haces, por lo que has conseguido o por todo aquello que algún día vas a lograr.
 
-Otra representa las metas que algún día vas a cumplir.
+Te lo digo por la persona que eres.
 
-Otra guarda todas esas sonrisas que todavía no sabes que vas a tener.
+Por tu manera de ser.
 
-Y algunas simplemente están aquí para recordarte que incluso los detalles más pequeños pueden convertirse en recuerdos muy bonitos.
+Por tu personalidad.
 
-Porque no siempre hace falta esperar una fecha importante para hacer sentir especial a alguien.
+Por esas pequeñas cosas que probablemente tú consideras normales, pero que para las personas que te conocen pueden significar muchísimo.
 
-A veces basta con una canción.
+Porque muchas veces uno no se da cuenta de la huella que deja en los demás.
 
-Un mensaje inesperado.
+Quizá para ti una conversación fue solamente una conversación.
 
-Una conversación que llega justo cuando la necesitábamos.
+Una risa fue solamente una risa.
 
-Una flor.
+Una ocurrencia fue simplemente algo que pasó.
 
-O un pequeño detalle como este. 💛
+Pero para otra persona pudo convertirse en uno de los mejores momentos de su día.
 
-Quizá hoy hayas tenido un día increíble.
+Y creo que eso es algo bonito de la amistad. 💛
 
-Quizá haya sido un día completamente normal.
+No siempre necesitamos hacer cosas enormes para convertirnos en personas importantes en la vida de alguien.
 
-O quizá no haya sido uno de tus mejores días.
+A veces basta con estar.
 
-Sea como sea, espero que por unos minutos puedas olvidarte de todo lo demás y simplemente disfrutar de este pequeño jardín que llegó hasta tu pantalla.
+Con escuchar.
 
-Cada flor amarilla que ves aquí representa un deseo bonito para ti. 🌼
+Con preguntar cómo estás.
 
-Que tengas muchos motivos para sonreír.
+Con compartir una tontería.
 
-Que las cosas por las que estás esforzándote poco a poco comiencen a dar resultados.
+Con mandar un mensaje inesperado.
 
-Que encuentres personas sinceras en tu camino.
+Con reírnos de algo que probablemente nadie más entendería.
 
-Que puedas disfrutar mucho más de los pequeños momentos.
+Con acompañarnos incluso cuando no tenemos las palabras correctas.
 
-Que nunca te falten sueños por cumplir.
+Eso también es amistad.
 
-Que tengas la valentía de comenzar nuevamente cuando algo no salga como esperabas.
+Y por eso quería que estas flores fueran para ti. 🌼
 
-Y, sobre todo, que nunca olvides todo lo bueno que todavía puede llegar a tu vida.
+Porque las personas increíbles también merecen que de vez en cuando alguien se tome unos minutos para recordarles todo lo bueno que tienen.
 
-Habrá días increíbles y también días complicados.
+No solamente cuando cumplen años.
 
-Momentos donde todo parezca estar saliendo bien y otros donde quizá las cosas no tengan demasiado sentido.
+No solamente cuando consiguen algo importante.
 
-Pero incluso después de los días más grises siempre existe la posibilidad de que vuelva a aparecer algo bonito.
+No solamente cuando llega una fecha especial.
 
-Después de todo, hasta las flores necesitan pasar por días de lluvia antes de volver a florecer. 🌻
+Y definitivamente no solamente cuando están pasando por un momento difícil.
 
-Así que si alguna vez tienes uno de esos días donde necesitas un pequeño recordatorio, recuerda este jardín.
+También en un día cualquiera.
 
-Recuerda estas flores.
+Porque no debería hacer falta esperar una ocasión especial para decir:
 
-Y recuerda que siempre existe una nueva oportunidad para comenzar, aprender, sonreír y seguir adelante.
+Gracias por tu amistad.
 
-Tal vez dentro de algún tiempo este detalle sea solamente una página que viste una vez.
+Gracias por los buenos momentos.
 
-O quizá recuerdes la canción que estaba sonando mientras aparecían las flores.
+Gracias por las conversaciones.
 
-Tal vez recuerdes alguna frase.
+Gracias por las risas.
 
-O simplemente recuerdes que un día alguien decidió regalarte flores amarillas de una manera un poquito diferente.
+Gracias por ser tú.
 
-Y con eso será suficiente. 💛
+A veces creemos que los detalles tienen que tener una razón enorme detrás.
 
-Porque al final los mejores detalles no siempre son los más grandes ni los más costosos.
+Pero no siempre es así.
 
-Muchas veces son aquellos que aparecen inesperadamente y consiguen regalarnos una sonrisa.
+Este simplemente tiene una:
 
-Por eso hoy no necesitas hacer absolutamente nada.
+Quería sacarte una sonrisa. 🌻
 
-Solo mira las flores.
+Tal vez estas flores solamente estén dentro de una pantalla.
 
-Escucha la música.
+No puedes ponerlas en un florero.
 
-Disfruta este pequeño momento.
+No puedes tocarlas.
 
-Y guarda todos los buenos deseos que vienen junto con este jardín. ✨
+Y probablemente tampoco huelan muy bien porque, técnicamente, son código JAJA. 😂🌼
 
-Que tengas días llenos de tranquilidad.
+Pero hay algo que sí tienen:
 
-Momentos llenos de risas.
+Una intención bonita.
 
-Personas que sepan valorar tu presencia.
+Cada flor de este pequeño jardín representa un buen deseo para ti.
 
-Sueños que te emocionen.
+Una representa todos los momentos felices que todavía te quedan por vivir.
 
-Historias bonitas que algún día puedas contar.
+Otra representa todas esas metas que poco a poco vas a conseguir.
 
-Y muchísimas razones para seguir creciendo y floreciendo.
+Otra representa las amistades sinceras que espero que siempre tengas cerca.
 
-Porque todavía quedan muchos lugares por conocer, personas por encontrar, canciones por escuchar, momentos por vivir y recuerdos por crear.
+Otra representa todas las veces que te vas a caer y vas a tener la fuerza suficiente para levantarte nuevamente.
 
-Y quién sabe...
+Otra representa las aventuras que todavía no sabes que vas a vivir.
 
-Quizá algunos de los mejores días de tu vida todavía ni siquiera han ocurrido. 💛
+Otra representa las personas maravillosas que todavía te falta conocer.
 
-Así que sigue adelante.
+Y otra simplemente está aquí para recordarte que eres mucho más capaz de lo que algunas veces puedes llegar a pensar. 💛
 
-Sigue soñando.
+Porque seguramente habrá días donde tengas muchísima confianza en ti.
+
+Días donde sientas que puedes con todo.
+
+Pero también existirán otros donde dudes.
+
+Donde algo no salga como querías.
+
+Donde te canses.
+
+Donde las cosas se compliquen.
+
+Donde quizá necesites escuchar que todo va a estar bien.
+
+Y cuando lleguen esos días, espero que recuerdes algo:
+
+No tienes que tener todo resuelto.
+
+No tienes que ser perfecta.
+
+No tienes que poder con absolutamente todo.
+
+También está bien descansar.
+
+También está bien equivocarse.
+
+También está bien comenzar nuevamente.
+
+Porque ninguna persona llega a convertirse en quien quiere ser sin antes pasar por días difíciles.
+
+Y aun así, sigues avanzando.
+
+Eso también dice muchísimo de ti. 🌻
+
+Espero que nunca permitas que un mal día te haga olvidar todo lo bueno que tienes.
+
+Que una equivocación no te haga pensar que eres un fracaso.
+
+Que una opinión ajena no determine cuánto vales.
+
+Y que nunca tengas que convertirte en alguien diferente solamente para agradarle a los demás.
+
+Sigue siendo tú.
+
+Con tus virtudes.
+
+Con tus defectos.
+
+Con tus ocurrencias.
+
+Con tus sueños.
+
+Con tus días buenos y tus días donde probablemente no quieras hablar con nadie JAJA.
+
+Porque precisamente todo eso forma parte de la persona que eres.
+
+Y créeme:
+
+Ser una mujer increíble no significa ser perfecta.
+
+Significa ser real.
+
+Significa aprender.
+
+Significa equivocarse y continuar.
+
+Significa tener sueños aunque todavía no sepas exactamente cómo vas a cumplirlos.
+
+Significa tener días difíciles y aun así encontrar fuerzas para volver a intentarlo.
+
+Significa crecer sin dejar de ser tú. 💛
+
+También quiero que recuerdes algo muy importante:
+
+Nunca midas tu valor comparándote con otras personas.
+
+Cada persona tiene su propio camino.
+
+Su propio tiempo.
+
+Sus propias batallas.
+
+Sus propias oportunidades.
+
+Y sus propias historias.
+
+No tienes que ir más rápido que nadie.
+
+Solamente tienes que continuar avanzando.
+
+Aunque sea lentamente.
+
+Aunque algunas veces tengas que detenerte.
+
+Aunque tengas que cambiar de dirección.
+
+Lo importante es que nunca dejes de creer que todavía pueden llegar cosas increíbles a tu vida. 🌼
+
+Porque todavía te quedan muchísimas experiencias.
+
+Todavía existen lugares que nunca has visitado.
+
+Canciones que todavía no has escuchado.
+
+Personas que todavía no conoces.
+
+Amistades que todavía no han comenzado.
+
+Sueños que todavía no has imaginado.
+
+Metas que algún día vas a mirar hacia atrás y decir:
+
+“Lo conseguí.”
+
+Y momentos tan buenos que algún día desearás poder regresar solamente cinco minutos para vivirlos otra vez.
+
+Eso es lo bonito de no saber exactamente qué viene después.
+
+Todavía quedan muchas páginas por escribir. ✨
+
+Espero que en esas páginas existan muchísimas risas.
+
+Viajes.
+
+Conversaciones hasta tarde.
+
+Fotos espontáneas.
+
+Comidas con personas importantes.
+
+Días donde todo salga increíble.
+
+Y también uno que otro día desastroso que después termine convertido en una buena historia para contar JAJA.
+
+Espero que encuentres personas que realmente valoren quién eres.
+
+Amistades que no estén solamente cuando todo está bien.
+
+Personas con las que puedas hablar sin sentir que tienes que aparentar algo.
+
+Personas que celebren tus logros sin competir contigo.
+
+Personas que te aconsejen cuando estés equivocada.
+
+Personas que puedan decirte la verdad aunque algunas veces no quieras escucharla.
+
+Y personas que sepan quedarse cuando realmente necesites compañía.
+
+Porque las buenas amistades no se miden solamente por cuánto tiempo conocemos a alguien.
+
+Se miden por la sinceridad.
+
+Por la confianza.
+
+Por el respeto.
+
+Por los momentos compartidos.
+
+Y por la tranquilidad de saber que podemos contar con alguien. 💛
+
+También espero que nunca pierdas esa capacidad de disfrutar las pequeñas cosas.
+
+Porque muchas veces estamos esperando que ocurra algo enorme para sentirnos felices.
+
+Un gran viaje.
+
+Un gran logro.
+
+Una gran noticia.
+
+Pero mientras esperamos esas cosas, pueden pasar frente a nosotros cientos de pequeños momentos que también merecían ser disfrutados.
+
+Una tarde tranquila.
+
+Tu canción favorita.
+
+Una conversación divertida.
+
+Salir a comer algo.
+
+Una foto inesperada.
+
+Un paisaje bonito.
+
+Una reunión con amigos.
+
+Una caminata.
+
+Una noche donde terminaste riéndote muchísimo.
+
+Un mensaje que llegó cuando no lo esperabas.
+
+Son cosas pequeñas.
+
+Pero al final, cuando pasan los años, muchas veces terminan siendo precisamente esas cosas las que más recordamos. 🌻
+
+Así que disfruta muchísimo.
+
+Haz recuerdos.
+
+Toma fotos.
+
+Ríete fuerte.
+
+Conoce lugares.
+
+Aprende cosas nuevas.
+
+Equivócate.
+
+Vuelve a intentarlo.
+
+Rodéate de personas buenas.
+
+Aléjate de aquello que no te hace bien.
+
+Celebra tus pequeñas victorias.
+
+Y nunca tengas miedo de comenzar una nueva etapa.
+
+La vida cambia.
+
+Las personas cambian.
+
+Nosotros también cambiamos.
+
+Y está bien.
+
+Crecer también significa descubrir nuevas versiones de nosotros mismos.
+
+Quizá dentro de algunos años mires hacia atrás y te sorprendas muchísimo de todo lo que cambió.
+
+Tal vez tengas otros sueños.
+
+Otros amigos.
+
+Otros lugares favoritos.
+
+Otros planes.
+
+Pero espero que conserves algo:
+
+La esencia de la persona que eres hoy. 💛
+
+Y espero también que, sin importar cuánto tiempo pase, nunca olvides valorar a las personas que estuvieron presentes en las distintas etapas de tu historia.
+
+Porque algunas amistades duran años.
+
+Otras quizá solamente acompañan una etapa.
+
+Pero eso no significa que hayan sido menos importantes.
+
+Cada persona puede dejarnos una enseñanza, un recuerdo o una historia.
+
+Y eso también tiene valor.
+
+Por eso este detalle no pretende decir algo complicado.
+
+No hay mensajes escondidos.
+
+No necesitas buscar significados secretos entre las flores JAJA. 😂🌻
+
+Es simplemente una forma diferente de decirte:
+
+Me alegra haberte conocido.
+
+Me alegra poder compartir momentos contigo.
+
+Valoro tu amistad.
+
+Y espero que te vaya increíble en todo aquello que quieras conseguir.
+
+Eso es todo.
+
+Aunque pensándolo bien...
+
+No es poca cosa.
+
+Porque encontrar buenas personas en nuestro camino siempre será algo que vale la pena agradecer. 💛
+
+Así que si algún día dudas de ti, recuerda que probablemente existen personas que ven cosas increíbles en ti que tú misma algunas veces no alcanzas a notar.
+
+Personas que admiran tu forma de seguir adelante.
+
+Tu manera de pensar.
+
+Tu personalidad.
+
+Tu esfuerzo.
+
+Tu alegría.
+
+O simplemente esa manera tan tuya de ser.
+
+Nunca sabemos completamente cómo nos ven las personas que nos quieren.
+
+Pero muchas veces somos mucho más importantes para ellas de lo que imaginamos.
+
+Por eso nunca está de más decirlo.
+
+Eres importante.
+
+Tu amistad importa.
+
+Tu presencia importa.
+
+Y definitivamente haces que algunos días sean mejores simplemente estando presente. 🌼
+
+No necesitas demostrarle nada a nadie para merecer cosas bonitas.
+
+Sigue trabajando por tus sueños.
 
 Sigue aprendiendo.
 
-Sigue disfrutando de esas pequeñas cosas que hacen diferente cada día.
+Sigue creciendo.
 
-Y nunca pierdas esa parte de ti que hace que alguien haya pensado:
+Sigue conociendo personas.
 
-"Hoy quiero tener un detalle bonito con esta persona."
+Sigue creando recuerdos.
 
-Este pequeño jardín llegó hasta ti por una razón.
+Y sobre todo, sigue disfrutando el camino.
 
-Hoy todas estas flores son para ti. 🌻🌼
+Porque algún día vas a mirar hacia atrás y te vas a dar cuenta de que aquellos días que parecían completamente normales también estaban formando parte de tu historia.
+
+Quizá incluso este día.
+
+Quizá esta canción.
+
+Quizá estas flores. 🌻
+
+Tal vez dentro de mucho tiempo ni siquiera recuerdes exactamente qué decía este mensaje.
+
+Pero espero que recuerdes algo mucho más sencillo:
+
+Que un día alguien quiso recordarte que eres una mujer increíble.
+
+Que tienes muchísimo por delante.
+
+Que mereces amistades bonitas y sinceras.
+
+Que todavía tienes cientos de momentos felices esperando por ti.
+
+Y que no hacía falta esperar tu cumpleaños, una celebración o alguna fecha importante para decírtelo.
+
+Porque apreciar a una persona no debería ser algo reservado para días especiales.
+
+A las buenas personas también hay que recordárselo en los días normales. 💛
+
+Así que hoy estas flores son simplemente para ti.
+
+Por tu amistad.
+
+Por los momentos compartidos.
+
+Por las risas que ya existieron.
+
+Por las conversaciones que todavía faltan.
+
+Por todos los recuerdos que aún quedan por crear.
+
+Y por todas las cosas increíbles que espero que te sucedan.
 
 No necesitan agua.
 
 No se van a marchitar.
 
-Y podrás volver a ellas cada vez que quieras recordar este momento.
+Y mientras esta página siga existiendo, siempre podrás regresar a verlas. 🌻
 
-Así que disfruta tu canción, mira cómo florece este pequeño jardín y quédate por un instante con todo lo bonito que representa.
+Así que escucha la música.
 
-Que la vida te regale muchas razones para sonreír.
+Mira este pequeño jardín.
 
-Que tus próximos capítulos estén llenos de buenos momentos.
+Sonríe aunque sea un poquito.
 
-Y que, sin importar dónde estés o lo que estés viviendo ahora mismo, siempre encuentres una razón para volver a florecer.
+Y continúa siendo esa mujer increíble que todavía tiene muchísimas historias por vivir.
 
-Feliz día de las flores amarillas. 💛🌻
+Que nunca te falten motivos para sonreír.
 
-Este pequeño jardín es para ti.
+Que nunca te falten sueños.
 
-Disfrútalo. ✨`;
+Que nunca te falten personas sinceras.
+
+Que nunca te falten buenas conversaciones.
+
+Que nunca te falten momentos que después recuerdes con una sonrisa.
+
+Y, sobre todo...
+
+Que nunca te falte una buena amistad. 💛🌻
+
+Estas flores amarillas son para ti.
+
+No porque hoy tenga que ser un día especial.
+
+Sino porque algunas personas hacen especiales los días normales simplemente formando parte de ellos.
+
+Gracias por tu amistad.
+
+Disfruta tu pequeño jardín. 🌼✨`;
 
 
 /* =========================================================
